@@ -20,7 +20,7 @@ echo 'hello' > ./test.log
 
 시간을 지정하여 자동반복을 실행하기 위한 도구로 *의 수에 따라 시간의 텀을 정할 수 있다.
 
-![crontab-explanation.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5be0b80e-d0d3-4435-aab4-537d24f9271d/0f781a92-cfd1-4fe3-84a2-763a380c4a70/crontab-explanation.png)
+![crontab-explanation.png](image/crontab-explanation.png)
 
 ### corntab 실행 명령어
 
